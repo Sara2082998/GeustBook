@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "6ac8cdd0-0149-4d72-8399-2bc07667e2cf": {
+      "ProjectGuid": "6ac8cdd0-0149-4d72-8399-2bc07667e2cf",
+      "DisplayName": "Guestbook",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}
